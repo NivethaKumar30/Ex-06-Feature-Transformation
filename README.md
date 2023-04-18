@@ -77,11 +77,26 @@ Feature Transformation - Data_to_Transform.csv
 ![o3](https://user-images.githubusercontent.com/119559844/232683203-dd902161-e0d1-4cd1-ada9-199d6f5be446.png)
 ![o4](https://user-images.githubusercontent.com/119559844/232683219-cc3b0358-2edc-40dd-8a84-6283fbed4a39.png)
 ![o5](https://user-images.githubusercontent.com/119559844/232683226-d6543bae-114f-42d9-ab51-cfc41c4c25ef.png)
+
+Log Transformation
+
 ![o6](https://user-images.githubusercontent.com/119559844/232683251-4ad1dce7-1503-4a5f-b8c5-589e7ab1075f.png)
+
+Reciprocal Transformation
+
 ![o7](https://user-images.githubusercontent.com/119559844/232683260-afb9bfbd-4805-4c00-8a24-e8568d6f7960.png)
+
+SquareRoot Transformation
+
 ![o8](https://user-images.githubusercontent.com/119559844/232683270-597ef95e-c8a3-45bf-84f2-48f6a2a76d40.png)
+
+Power Transformation
+
 ![o9](https://user-images.githubusercontent.com/119559844/232683278-ae1f1776-0dac-4f19-bfbf-201ed792fe01.png)
 ![o10](https://user-images.githubusercontent.com/119559844/232683286-a9d5b48d-c85e-41bc-8d01-ca16de25bb5b.png)
+
+Quantile Transformation
+
 ![o11](https://user-images.githubusercontent.com/119559844/232683293-dbe5f8a9-d5a3-4312-8380-6029714c55b5.png)
 
 RESULT:
