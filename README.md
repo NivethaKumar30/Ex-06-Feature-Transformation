@@ -100,4 +100,5 @@ Quantile Transformation
 ![o11](https://user-images.githubusercontent.com/119559844/232683293-dbe5f8a9-d5a3-4312-8380-6029714c55b5.png)
 
 RESULT:
+
 Thus the Feature Transformation for the given datasets had been executed successfully
