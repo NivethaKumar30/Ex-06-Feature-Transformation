@@ -70,3 +70,7 @@ df5['ModerateNegativeSkew_2'] = pd.DataFrame(qt.fit_transform(df5[['ModerateNega
 sm.qqplot(df5['ModerateNegativeSkew_2'],line='45')
 plt.show()
 ```
+OUPUT:
+
+RESULT:
+Thus the Feature Transformation for the given datasets had been executed successfully
